@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "piggy\barbara\barbara_textures"
+
+	$nocull 1
+	$selfillum 1
+}

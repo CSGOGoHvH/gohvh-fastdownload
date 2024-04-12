@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/eminem/csnz/amt_automag_v/weapon_01"
+	"$bumpmap"	   "models/weapons/eminem/csnz/amt_automag_v/weapon_01_n"
+
+	// PHONG SHADING
+	$phong                      1
+	$phongboost                 1
+	$phongfresnelranges         "[0.10 0.35 0.05]"
+	$phongtint                  "[.8 .8 1]"
+	$normalmapalphaphongmask    1
+
+	// ENVIRONMENT REFLECTION
+	$envmap                     env_cubemap
+	$envmaptint                 "[.004 .004 .004]"
+	$envmapfresnel              1
+	$envmapFresnelMinMaxExp     "[0 0 .5]"
+	$normalmapalphaenvmapmask   1
+}

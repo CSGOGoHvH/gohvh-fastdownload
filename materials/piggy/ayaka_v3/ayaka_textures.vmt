@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/ayaka_v3/ayaka_textures"
+
+	//$nocull 1
+
+	$lightwarptexture "piggy/ayaka_v3/lightwarp_anime"
+	$color "[.95 .95 .95]"
+
+	//$alphatest 1
+        	//$alphatestreference .6
+	//$allowalphatocoverage 1
+}

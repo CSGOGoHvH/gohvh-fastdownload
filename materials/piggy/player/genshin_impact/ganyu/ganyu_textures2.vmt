@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/player/genshin_impact/ganyu/ganyu_textures"
+
+	$nocull 1
+
+	$lightwarptexture "piggy/player/genshin_impact/ganyu/lightwarp_anime"
+	$color "[.95 .95 .95]"
+
+	//$alphatest 1
+        	//$alphatestreference .6
+	//$allowalphatocoverage 1
+}

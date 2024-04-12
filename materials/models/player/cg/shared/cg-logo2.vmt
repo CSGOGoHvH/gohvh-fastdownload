@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// ALPHATEST
+	"$basetexture" "models\player\cg\shared\cg-logo"
+	$alphatest 1
+}

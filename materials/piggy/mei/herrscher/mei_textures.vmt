@@ -1,0 +1,7 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"piggy/mei/herrscher/mei_textures" 
+	$nocull 1
+	//"$halflambert" "1"
+
+} 

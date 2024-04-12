@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/piggy/genshin_impact/hutao/hutao_atlasmat01"
+
+	$lightwarptexture "models/player/piggy/genshin_impact/hutao/lightwarp"
+
+	$nodecal 1
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/player/genshin_impact/lumine_v2/lumine_textures"
+
+	$nocull 1
+
+	$lightwarptexture "piggy/player/shared/lightwarp_anime"
+	$color "[.95 .95 .95]"
+}

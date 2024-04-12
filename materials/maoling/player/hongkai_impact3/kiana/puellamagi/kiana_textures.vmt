@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/hongkai_impact3/kiana/puellamagi/kiana_textures"
+
+	$nocull 1
+
+	$lightwarptexture "maoling/player/shared/lightwarp_anime"
+	$color "[.95 .95 .95]"
+
+	$alphatest 1
+        	$alphatestreference .6
+	//$allowalphatocoverage 1
+}

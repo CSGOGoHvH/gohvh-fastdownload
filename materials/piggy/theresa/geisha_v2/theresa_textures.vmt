@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/theresa/geisha_v2/theresa_textures"
+	"$nocull" 1
+	//$alphatest 1
+}

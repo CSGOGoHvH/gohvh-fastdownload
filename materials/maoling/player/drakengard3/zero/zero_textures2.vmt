@@ -1,0 +1,7 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"maoling/player/drakengard3/zero/zero_textures" 
+	$nocull 1
+
+	$translucent 1
+} 

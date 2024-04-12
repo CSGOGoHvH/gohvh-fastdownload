@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/longniang_v2/normal/longniang_textures"
+	$halflambert 1
+	"$nocull" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "piggy/saitama/saitama_textures"
+	$color "[.9 .9 .9]"
+	//$nocull 1
+	//"$translucent" 1
+	//"$ignorez"     "1"
+	//"$no_fullbright" "1"	
+}

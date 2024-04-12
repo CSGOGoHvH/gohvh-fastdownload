@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "piggy/len/len_textures"
+
+	$lightwarptexture "piggy/len/lightwarp_anime"
+
+	$color "[.90 .90 .90]"
+	
+	$alphatest 1
+
+	//$nocull 1
+
+	
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\monsterko\haku_wedding_dress/g_lace"
+
+	$nocull 1
+	//"$translucent" "1"
+	$alphatest 1
+}
+

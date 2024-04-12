@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\K31\seer_heirloom_specTexture"
+	"$bumpmap" "models\K31\seer_heirloom_normalTexture"
+	"$phong" "1"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$selfillumtint" "[15 15 15]"
+	"$selfillummask" "models\K31\seer_heirloom_emissiveTexture"
+}

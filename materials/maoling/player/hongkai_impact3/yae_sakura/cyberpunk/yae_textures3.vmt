@@ -1,0 +1,31 @@
+"UnlitGeneric"
+{
+	// GLOWING SCROLLING LEG PATTERN
+
+	"$basetexture" "maoling/player/hongkai_impact3/yae_sakura/cyberpunk/yae_textures3"
+	"$color" "[0.9 .7 2]"
+	//$translucent 1
+	$alphatest 1
+
+	$additive 1
+	$model 1
+
+	Proxies
+ 	{
+  		TextureScroll
+  		{
+   			texturescrollvar $basetexturetransform
+   			texturescrollrate .46
+   			texturescrollangle 90
+ 		}
+		sine
+		{
+			sineperiod 0.01
+			sinemin 0.0
+			sinemax 2.0
+			timeoffset 0
+			resultvar $alpha
+		}
+	}
+
+}

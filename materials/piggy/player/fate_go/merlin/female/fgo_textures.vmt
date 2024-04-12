@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/player/fate_go/merlin/female/fgo_textures"
+	//$nocull 1
+
+	$lightwarptexture "piggy/player/shared/lightwarp_anime"
+	$color "[.8 .8 .8]"
+}

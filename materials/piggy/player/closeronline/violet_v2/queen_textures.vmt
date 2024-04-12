@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/player/closeronline/violet_v2/queen_textures"
+	//$nocull 1
+
+	//$selfillum 1
+
+	$lightwarptexture "piggy/player/shared/lightwarp_anime"
+	$color "[.90 .90 .90]"
+}

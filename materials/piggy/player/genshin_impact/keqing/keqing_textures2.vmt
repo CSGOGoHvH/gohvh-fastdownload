@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "piggy/player/genshin_impact/keqing/keqing_textures"
+
+	$model 1
+	//$additive 1
+	//$nocull 1
+
+	//$lightwarptexture "piggy/player/shared/lightwarp_anime"
+	$color "[1.3 1.3 1.3]"
+
+	//$alphatest 1
+        	//$alphatestreference .6
+	//$allowalphatocoverage 1
+}

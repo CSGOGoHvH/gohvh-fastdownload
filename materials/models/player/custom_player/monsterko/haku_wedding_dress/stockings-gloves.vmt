@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\monsterko\haku_wedding_dress/stockings-gloves"
+
+	//$nocull 1
+	"$translucent" "1"
+	$alphatest 1
+}
+

@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	$basetexture "models/k31/seer_heirloom_smear_albedotexture"
+
+	$nodecal 1
+	$additive 1
+	$color2 "[0.14 0.55 1]"
+}

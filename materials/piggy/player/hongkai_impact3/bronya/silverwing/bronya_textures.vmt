@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "piggy/player/hongkai_impact3/bronya/silverwing/bronya_textures"
+
+	$nocull 1
+
+	$lightwarptexture "piggy/player/shared/lightwarp_anime"
+	$color "[.87 .87 .87]"
+
+	//$alphatest 1
+        	//$alphatestreference .6
+	//$allowalphatocoverage 1
+}

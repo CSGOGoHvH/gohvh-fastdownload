@@ -1,0 +1,8 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"maoling/pet/hongkai_impact3/mei/evil/meievilq_textures" 
+	$nocull 1
+	"$halflambert" "1"
+	//$alphatestreference 1
+	//$translucent 1
+} 

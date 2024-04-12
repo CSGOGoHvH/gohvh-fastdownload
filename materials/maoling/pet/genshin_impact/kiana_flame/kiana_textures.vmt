@@ -1,0 +1,12 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"maoling/pet/genshin_impact/kiana_flame/kiana_textures" 
+
+	$lightwarptexture "maoling/player/shared/lightwarp_anime"
+	$color "[.9 .9 .9]"
+
+	$nocull 1
+	"$halflambert" "1"
+	//$alphatestreference 1
+	//$translucent 1
+} 

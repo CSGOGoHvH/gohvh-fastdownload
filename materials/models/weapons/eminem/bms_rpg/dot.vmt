@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\eminem\bms_rpg\DOT"
+	"$additive" "1"
+	"$selfillum" "1"
+	"$nocull" "1"
+}

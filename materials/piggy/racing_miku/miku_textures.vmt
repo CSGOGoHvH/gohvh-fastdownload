@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"piggy/racing_miku/miku_textures"
+	$phong 			1
+	$BasemapAlphaPhongMask 	1
+	$phongtint "		[.31 .16 .01]"
+	$phongexponent 		60
+	$phongboost 		25
+	$envmap 		"env_cubemap"
+	$envmaptint 		"[.5 .4 .1]"
+	$basealphaenvmapmask 	1
+	$nocull 1
+}

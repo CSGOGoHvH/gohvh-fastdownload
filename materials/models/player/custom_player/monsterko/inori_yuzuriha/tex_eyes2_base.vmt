@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\monsterko\inori_yuzuriha\tex_eyes2_base"
+	//"$nocull" 1
+}

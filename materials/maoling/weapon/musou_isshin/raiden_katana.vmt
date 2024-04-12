@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/weapon/musou_isshin/raiden_katana"
+	"$lightwarptexture" "maoling/player/shared/lightwarp_anime"
+	
+	$selfillum 1
+
+	$selfillummaskscale "4"
+	$model 1
+}

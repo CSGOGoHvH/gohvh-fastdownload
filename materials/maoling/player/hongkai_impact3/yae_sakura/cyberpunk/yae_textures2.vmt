@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/hongkai_impact3/yae_sakura/cyberpunk/yae_textures"
+
+	//$nocull 1
+
+	$lightwarptexture "maoling/player/shared/lightwarp_anime"
+	$color "[.95 .95 .95]"
+
+	$translucent 1
+
+	//$alphatest 1
+        	//$alphatestreference .6
+	//$allowalphatocoverage 1
+}
